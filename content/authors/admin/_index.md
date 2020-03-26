@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Undergraduate
 
 # Organizations/Affiliations
 organizations:
@@ -18,9 +18,10 @@ organizations:
   url: "https://www.sdu.edu.cn"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Hi,there! Welcome to my personal site
 
 interests:
+- Computational Social Science
 - Artificial Intelligence
 - Computational Linguistics
 - Information Retrieval
@@ -48,7 +49,7 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/GeorgeCushen
-- icon: linkin
+- icon: linkedin
   icon_pack: ai
   link: https://www.linkedin.com/in/呈亮-赵-41724718b/
 - icon: github
