@@ -48,9 +48,9 @@ social:
   link: '#contact'  # For a direct email link, use "zcl271828@gmail.com".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/8uEbNvKUquxw4kB
 - icon: linkedin
-  icon_pack: ai
+  icon_pack: fab
   link: https://www.linkedin.com/in/呈亮-赵-41724718b/
 - icon: github
   icon_pack: fab
